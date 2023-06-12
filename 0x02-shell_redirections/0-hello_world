@@ -1,1 +1,2 @@
 echo "Hello, World"
+cat 0-hello_world
